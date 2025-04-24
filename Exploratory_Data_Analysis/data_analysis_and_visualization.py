@@ -310,4 +310,4 @@ plt.show()
 df1.head()
 
 pd.crosstab(df1['sex'],df1['smoker'])
-
+a = "harimadhu"
